@@ -1,2 +1,2 @@
-print("This is not a test")
+print("This is some test")
 print("Let's create no new message")
